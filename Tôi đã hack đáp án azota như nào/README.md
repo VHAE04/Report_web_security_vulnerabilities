@@ -4,7 +4,7 @@
 
 ## - Mở bài
 Thật ra cũng thật tình cờ vào một ngày đẹp thức dậy vào lúc 7h đánh răng ngồi vào bàn học mở zoom thân thương lên để học tập trong mùa dịch, một thông báo bất ngờ hiện lên với dòng tin nhắn của thầy tôi là **KIỂM TRA HOÁ GIỮA KỲ** vào tuần sau trên azota, tôi thật bất ngờ nhưng cũng thật bình tĩnh....
-Sau 5 tiết học bận rội tôi mở chiếc lattop cũ kỹ của tôi lên vào web azota để lập tài khoản và thi thử. Tôi biết mình là một người học không tốt môn hoá mấy(thật ra mất gốc). Từ đó tôi suy nghĩ có cách nào mà làm cái khác mà vẫn có ăn không.
+Sau 5 tiết học bận rộn tôi mở chiếc lattop cũ kỹ của tôi lên vào web azota để lập tài khoản và thi thử. Tôi biết mình là một người học không tốt môn hoá mấy(thật ra mất gốc). Từ đó tôi suy nghĩ có cách nào mà làm cái khác mà vẫn có ăn không.
 
 ## - Thân bài 
 Sau khi dạo quanh một vòng web thì tôi tìm ra một số api bị dính lỗi.
