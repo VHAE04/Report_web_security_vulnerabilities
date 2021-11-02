@@ -26,7 +26,7 @@ Mình đã thử chèn một đoạn thẻ `<script>alert(1)</script>` post lên
 
 Và thật bất ngờ ngay sau khi mình truy cập trang web của mình thì web đã bị xss.
 
-Khoan dừng khoảng chừng là 2 giây ở đây mình đã xss trang `CDN` chứ không phải trang `azota.vn`(đọc sang api thứ 2 thì hiểu nhé).
+Khoan dừng khoảng chừng là 2 giây ở đây mình đã xss trang `CDN` chứ không phải trang `azota.vn`
 
 Mình nhẹ nhàng check lại bằng cách thay `alert(1)` =>  `alert(document.URL)`
 
