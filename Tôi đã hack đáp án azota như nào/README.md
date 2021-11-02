@@ -45,9 +45,8 @@ Từ đây web đã bị dính `Stored XSS`
 
 
 Vậy ra đây một api post `url` web của bạn lên để khi truy cập web site của bạn thì **web sẽ render html** từ trang web này @@.
-Nếu vậy có nghĩa là mình chèn một [URL](https://raw.githubusercontent.com/VHAE04/Report_web_security_vulnerabilities/main/T%C3%B4i%20%C4%91%C3%A3%20hack%20%C4%91%C3%A1p%20%C3%A1n%20azota%20nh%C6%B0%20n%C3%A0o/xss.html) 
 
-bị tiêm mã script thì khi web azota render html từ trang đó thì cũng bị `XSS`.
+Nếu vậy có nghĩa là mình chèn một [URL](https://raw.githubusercontent.com/VHAE04/Report_web_security_vulnerabilities/main/T%C3%B4i%20%C4%91%C3%A3%20hack%20%C4%91%C3%A1p%20%C3%A1n%20azota%20nh%C6%B0%20n%C3%A0o/xss.html) bị tiêm mã script thì khi web azota render html từ trang đó thì cũng bị `XSS`.
 
 
 
