@@ -12,7 +12,8 @@ Sau khi dạo quanh một vòng web thì tôi tìm ra một số api bị dính 
 
 ### Các api thú vị:
 #### Api - 1
-`PUT /ladipage/m11_2021/d02/1787477/6181ab4aXXXXXXXXXXX`
+`PUT /ladipage/m11_2021/d02/1787477/6181ab4aXXXXXXXXXXX`\
+
 `Host: wewiin.nyc3.digitaloceanspaces.com`
 ![post_chinhsua_web](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/T%C3%B4i%20%C4%91%C3%A3%20hack%20%C4%91%C3%A1p%20%C3%A1n%20azota%20nh%C6%B0%20n%C3%A0o/images/2post_chinhsua_web.PNG?raw=true)
 Đây là một api post dữ liệu web của mình lên `CND` trung gian của `digitaloceanspaces`
