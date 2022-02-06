@@ -18,7 +18,7 @@ Url : https://developer.stringee.com/report/call
 
 Inject : ```<script>alert(1)</script>```
 
-Tạo một access_token để thực hiện cuộc gọi 
+Tạo một access_token từ url để thực hiện cuộc gọi 
 
 thay đổi tên người cuộc gọi = `inject `
 
