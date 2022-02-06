@@ -9,4 +9,4 @@
 | [Ai là triệu phú](https://vuhoanganhmew.blogspot.com/2021/08/report-web-security-vulnerabilities.html)      | INTEGER OVERFLOW     |
 | [Logic bruteforce](https://vuhoanganhmew.blogspot.com/2020/12/report-web-security-vulnerabilities-1.html)     | Password Reset Token Not Expired     |
 | [stringee](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/Stringee)     | Reflected XSS + Stored XSS     |
-| [olm](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/olm)     | XSS    |
+| [olm](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/olm)     | XSS(Clickjacking)    |
