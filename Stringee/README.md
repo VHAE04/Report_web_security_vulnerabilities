@@ -1,4 +1,4 @@
-# Reflected XSS + Stored XSS
+# Reflected XSS + Stored XSS (no bonus)
 
 
 
