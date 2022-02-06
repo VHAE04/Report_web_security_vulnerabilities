@@ -9,7 +9,7 @@ Endpoint : https://static.stringee.com/button-call/lastest/videocall/popup_voice
 
 Inject : ```<script>alert(1)</script>```
 
-![](/Reflected_XSS.jpg)
+![](https://raw.githubusercontent.com/VHAE04/Report_web_security_vulnerabilities/main/Stringee/image/Reflected_XSS.jpg)
 
 
 ## Stored XSS
@@ -18,7 +18,11 @@ Url : https://developer.stringee.com/report/call
 
 Inject : ```<script>alert(1)</script>```
 
-Tạo một access_token để thực hiện cuộc gọi thay đổi tên người cuộc gọi = inject ==> người nhận bị xss
+Tạo một access_token để thực hiện cuộc gọi 
+
+thay đổi tên người cuộc gọi = `inject `
+
+==> người nhận(victim) bị xss
 
 Endpoint : 
 
@@ -34,4 +38,4 @@ https://static.stringee.com/button-call/lastest/videocall/popup_voicecall.html
 
 Inject : ```<script>alert(1)</script>```
 
-![](/Reflected_XSS.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/Stringee/image/Stored_XSS.png?raw=true)
