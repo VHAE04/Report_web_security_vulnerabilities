@@ -19,7 +19,7 @@ Bạn có thể xem bức ảnh dưới đây:
 
 #### 1 Thoát ra khỏi câu lệnh truy vấn.
 #### 2 Kết thúc chuỗi truy vấn.
-#### 3 Đóng câu lệnh của hàm vào để tệp js được thực thi.
+#### 3 Đóng câu lệnh của hàm ,để tệp js được thực thi.
 
 # BUZZ !!! đi report thôi
 
