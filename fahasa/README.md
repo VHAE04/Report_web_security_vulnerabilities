@@ -8,7 +8,7 @@ Lỗi này sinh ra khi fahasa có sử dụng một extension js tìm kiếm và
 
 > Cách thức lọc của ets là chỉ thêm dấu escape `\` vào trước `'` để biến đổi ký tự đặc biệt thành ký tự thường ,ta bypass bằng cách nhập ```\'``` khi đó câu lệnh sẽ biến đổi thành` \\`' ký tự escape đã tự escape chính nó.
 
-Dù vậy nhưng quá trình bypass cũng khá căng thẳng với một người ngu javascript như tôi vì khi một đoạn js trong script không hợp lệ thì cả file js đó sẽ không thực thi và báo lỗi trên con sole.
+Dù vậy nhưng quá trình bypass cũng khá căng thẳng với một người ngu javascript như tôi vì khi một đoạn js trong script không hợp lệ thì cả file js đó sẽ không thực thi và báo lỗi trên console.
 
 
 Bạn có thể xem bức ảnh và các bước dười đây:
