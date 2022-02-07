@@ -11,7 +11,7 @@ Lỗi này sinh ra khi fahasa có sử dụng một extension js tìm kiếm và
 Dù vậy nhưng quá trình bypass cũng khá căng thẳng với một người ngu javascript như tôi vì khi một đoạn js trong script không hợp lệ thì cả file js đó sẽ không thực thi và báo lỗi trên console.
 
 
-Bạn có thể xem bức ảnh và các bước dười đây:
+Bạn có thể xem bức ảnh dưới đây:
 
 ![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa/image/bypass.png?raw=true)
 
