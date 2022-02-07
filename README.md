@@ -10,4 +10,4 @@
 | [Logic bruteforce](https://vuhoanganhmew.blogspot.com/2020/12/report-web-security-vulnerabilities-1.html)     | Password Reset Token Not Expired     |
 | [stringee](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/Stringee)     | Reflected XSS + Stored XSS     |
 | [olm](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/olm)     | XSS(Clickjacking)    |
-| [fahasa](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa/README.md)     | DOM XSS    |
+| [fahasa](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa)     | DOM XSS    |
