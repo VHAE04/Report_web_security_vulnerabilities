@@ -13,7 +13,7 @@ Dù vậy nhưng quá trình bypass cũng khá căng thẳng với một ngườ
 
 Bạn có thể xem bức ảnh và các bước dười đây:
 
-![](/Reflected_XSS.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa/image/bypass.png?raw=true)
 
 ### Chú thích
 
@@ -23,4 +23,4 @@ Bạn có thể xem bức ảnh và các bước dười đây:
 
 # BUZZ !!! đi report thôi
 
-![](/Reflected_XSS.jpg)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa/image/alert.png?raw=true)
