@@ -10,14 +10,16 @@ Vào hôm chiều lá rơi mình được 4đ lý nên mang web ra chọc chọc
  - .....
 
 Tất cả các dữ liệu đều được post lên cdn và khi load trang data sẽ được kéo về qua script 
+
 --> upload inject không khả khi mấy 
+
 --> mình chuyển hướng test qua các case xss
 
 ## Khai thác
 
 ### Ở api đăng bài (status) 
 
-- Thì được filter khá chặt nhưng phần post được public cho mọi người nên có thể lợi dụng để đăng ảnh tài liệu free ._. vì nó không có giới hạn dữ liệu.
+- Thì được filter khá chặt nhưng phần post được công khai cho mọi người nên có thể lợi dụng để đăng ảnh tài liệu free ._. vì nó không có giới hạn dữ liệu.
 
 ### Ở api comment
 
@@ -25,8 +27,8 @@ Tất cả các dữ liệu đều được post lên cdn và khi load trang dat
 `<h1>vhae</h1>`
 ![h1](https://raw.githubusercontent.com/VHAE04/Report_web_security_vulnerabilities/main/padlet/images/h1.PNG)
 - quá ngon vậy thì bị xss inject rồi mlem.
-- Nhưng điều khó khăn ở đây là nó chỉ dùng được các thẻ tinh chỉnh chữ 
-`<p><h1><h2>...` còn các thẻ nguy hiểm như `script` hoặc gọi đến event `onerror` đều bị WAF chặn không cho kéo data về.
+- Nhưng điều khó khăn ở đây là nó chỉ dùng được các thẻ tinh chỉnh chữ.
+`<p><h1><h2>...` còn các thẻ nguy hiểm như `script` hoặc gọi đến event `onerror` đều bị WAF chặn không cho kéo data về --> không kích hoạt script.
 - Đến bước này mình test tiếp các case và một cái đã được đi qua đó là trỏ hàm về `keyframes`
 ex 
 ```
