@@ -23,6 +23,7 @@ Tất cả các dữ liệu đều được post lên cdn và khi load trang dat
 
 - Ở đây mình test ngay case đầu
 `<h1>vhae</h1>`
+![h1](https://raw.githubusercontent.com/VHAE04/Report_web_security_vulnerabilities/main/padlet/images/h1.PNG)
 - quá ngon vậy thì bị xss inject rồi mlem.
 - Nhưng điều khó khăn ở đây là nó chỉ dùng được các thẻ tinh chỉnh chữ 
 `<p><h1><h2>...` còn các thẻ nguy hiểm như `script` hoặc gọi đến event `onerror` đều bị WAF chặn không cho kéo data về.
@@ -33,16 +34,18 @@ ex
 <xss style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(`VHAE`)"></xss>
 ```
 
-Mình đã report lên email sup của họ và đã nhận được 
+Mình đã report lên email support của họ và đã nhận được phản hồi.
 
-![pad xss](pad.png)
+![pad xss](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/images/report.PNG?raw=true)
 
 và ngay sau đó mình đã thực hiện trên đường dẫn nộp lớp học :) 
 
-![anh xss](car.png)
+![anh xss](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/images/inject.jpg?raw=true)
 
 Câu truyện hôm sau :<
 
-![](cogiao.png)
-![](voz.png)
-![](xinloi.png)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/images/cogiao.jpg?raw=true)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/images/voz.PNG?raw=true)
+![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/images/xinloi.jpg?raw=true)
+
+:3 mình đã giải thích cho cô giáo và chỉ cô cách khắc phục mọi chuyện đã được hoà giải.
