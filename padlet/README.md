@@ -1,4 +1,4 @@
-# Tiểu sự về xss padlet
+# Tiểu sự về xss padlet bypass WAF
 
 Đây là một web tạo sơ đồ hoặc lịch trình và note cho nhiều người dùng.
 Và đây cũng là web trường mình chọn để cho các học sinh nộp bài tập online.
@@ -29,7 +29,7 @@ Tất cả các dữ liệu đều được post lên cdn và khi load trang dat
 - quá ngon vậy thì bị xss inject rồi mlem.
 - Nhưng điều khó khăn ở đây là nó chỉ dùng được các thẻ tinh chỉnh chữ.
 `<p><h1><h2>...` còn các thẻ nguy hiểm như `script` hoặc gọi đến event `onerror` đều bị WAF chặn không cho kéo data về --> không kích hoạt script.
-- Đến bước này mình test tiếp các case và một cái đã được đi qua đó là trỏ hàm về `keyframes`
+- Mình test tiếp các case và một cái đã được đi qua đó là trỏ hàm về `keyframes`
 ex 
 ```
 <style>@keyframes slidein {}</style>
