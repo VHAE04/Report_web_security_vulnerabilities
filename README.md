@@ -11,4 +11,4 @@
 | [stringee](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/Stringee)     | Reflected XSS + Stored XSS     |
 | [olm](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/olm)     | XSS(Clickjacking)    |
 | [fahasa](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa)     | DOM XSS    |
-| [Tiểu sự về xss padlet](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/README.md)     | DOM XSS    |
+| [Tiểu sự về xss padlet](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/README.md)     | DOM XSS bypass WAF   |
