@@ -30,11 +30,8 @@ Tất cả các dữ liệu đều được post lên cdn và khi load trang dat
 - Nhưng điều khó khăn ở đây là nó chỉ dùng được các thẻ tinh chỉnh chữ.
 `<p><h1><h2>...` còn các thẻ nguy hiểm như `script` hoặc gọi đến event `onerror` đều bị WAF chặn không cho kéo data về --> không kích hoạt script.
 - Mình test tiếp các case và một cái đã được đi qua đó là trỏ hàm về `keyframes`
-ex 
-```
-<style>@keyframes slidein {}</style>
-<xss style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(`VHAE`)"></xss>
-```
+ex: xem ảnh ở dưới thử với lớp ấy ._.
+
 
 Mình đã report lên email support của họ và đã nhận được phản hồi.
 
