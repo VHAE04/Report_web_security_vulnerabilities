@@ -10,7 +10,7 @@ khi ta truy cập vào web ngay lập tức ta được chuyển hướng về t
 
 Ở đây mình đã thử fuzzing url thì phát hiện ra lỗ hổng phân quyền trên web được truy cập home ở quyền admin ở 2 url
 
-`http://[secret]/webapp/cp/users.html` ==> 403
+`http://[secret].vn/webapp/cp/users.html` ==> 403
 
 ![](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20n%C3%A0o%20%C4%91%C3%B3/1.PNG?raw=true )
 
