@@ -12,4 +12,4 @@
 | [olm](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/olm)     | XSS(Clickjacking)    |
 | [fahasa](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/fahasa)     | DOM XSS    |
 | [Tiểu sự về xss padlet](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/padlet/README.md)     | Stored XSS bypass WAF   |
-| [Quản lý trường học](https://github.com/VHAE04/Report_web_security_vulnerabilities/tree/main/Trường%20học%20nào%20đó)     | Broken Access Control   |
+| [Quản lý trường học](https://github.com/VHAE04/Report_web_security_vulnerabilities/blob/main/Trường%20học%20nào%20đó/README.md)     | Broken Access Control   |
